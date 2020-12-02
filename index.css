@@ -1183,7 +1183,7 @@ footer>.footer-nav{
     top: 60px;
     right: 20px;
     color: white;
-    background-color: tomato;
+    /*background-color: tomato*/
     font-family: yekan;
   }
   
@@ -1201,14 +1201,14 @@ footer>.footer-nav{
   }
   
   .info__top>.info__title {
-    background-color: thistle;
+    /*background-color: thistle;*/
     margin: 10px 11px;
     height: 70px;
     font-size: 11px;
   }
   
   .info__top>.info__date {
-    background-color: black;
+    /*background-color: black;*/
     margin-right: 11px;
     font-size: 10px;
   }
@@ -1220,7 +1220,7 @@ footer>.footer-nav{
     top: 60px;
     right: 20px;
     color: white;
-    background-color: tomato;
+    /*background-color: tomato;*/
     font-family: yekan;
    
   }
@@ -1238,14 +1238,14 @@ footer>.footer-nav{
   }
   
   .info__buttom>.info__title {
-    background-color: thistle;
+    /*background-color: thistle;*/
     margin: 10px 11px;
     height: 70px;
     font-size: 11px;
   }
   
   .info__buttom>.info__date {
-    background-color: black;
+    /*background-color: black;*/
     margin-right: 11px;
     font-size: 10px;
   }
@@ -1253,7 +1253,7 @@ footer>.footer-nav{
   .mobile-space {
     display: flex;
     width: 200px;
-    background-color: burlywood;
+    /*background-color: burlywood;*/
     text-align: center;
   }
   .mobile-space-tilte {
@@ -1326,14 +1326,14 @@ footer>.footer-nav{
   .mobile_mid_section>.extra_mobile_left{
     width: 260px;
     height: 300px;
-    background-color: coral;
+    /*background-color: coral;*/
     float: left;
   }
   .mobile_mid_section>.extra_mobile_right{
     width: 260px;
     height: 300px;
     display: inline-block;
-    background-color: coral;
+    /*background-color: coral;*/
   }
   .extra_mobile_left>.extra_img{
     width: 100%;
@@ -1418,19 +1418,19 @@ footer>.footer-nav{
   .container__buttom>.container__buttom__right {
     width: 0px;
     overflow: hidden;
-    background-color: blueviolet;
+    /*background-color: blueviolet;*/
     
   }
   .container__buttom>.container__buttom__left {
     overflow: hidden;
     width: 900px;
     margin-right: 5px;
-    background-color: rosybrown;
+    /*background-color: rosybrown;*/
   }
   .mobile__container{
     width: 450px;
     height: 420px;
-    background-color: cornflowerblue;
+    /*background-color: cornflowerblue;*/
     margin: auto;
     margin-top: -15px;
     z-index: 0;
@@ -1463,7 +1463,7 @@ footer>.footer-nav{
     top: 50px;
     right: 20px;
     color: white;
-    background-color: rgb(85, 53, 49);
+    /*background-color: rgb(85, 53, 49);*/
     font-family: yekan;
     
   }
@@ -1480,14 +1480,14 @@ footer>.footer-nav{
   }
   
   .info__mc__top>.info__title {
-    background-color: thistle;
+    /*background-color: thistle;*/
     margin: 10px 11px;
     height: 50px;
     font-size: 12px;
   }
   
   .info__mc__top>.info__date {
-    background-color: black;
+    /*background-color: black;*/
     margin-right: 11px;
     font-size: 10px;
   }
@@ -1510,7 +1510,7 @@ footer>.footer-nav{
     top: 50px;
     right: 20px;
     color: white;
-    background-color: rgb(134, 86, 77);
+   /* background-color: rgb(134, 86, 77);*/
     font-family: yekan;
     
   }
@@ -1527,14 +1527,14 @@ footer>.footer-nav{
   }
   
   .info__mc__buttom>.info__title {
-    background-color: thistle;
+    /*background-color: thistle;*/
     margin: 10px 11px;
     height: 50px;
     font-size: 12px;
   }
   
   .info__mc__buttom>.info__date {
-    background-color: black;
+    /*background-color: black;*/
     margin-right: 11px;
     font-size: 10px;
   }
@@ -1647,7 +1647,7 @@ footer>.footer-nav{
     top: 290px;
     right: 10px;
     color: white;
-    background-color: rgb(134, 86, 77);
+    /*background-color: rgb(134, 86, 77);*/
     font-family: yekan;
   }
   
@@ -1681,14 +1681,14 @@ footer>.footer-nav{
   
   .info__buttom__left>.info__title {
     
-    background-color: thistle;
+    /*background-color: thistle;*/
     margin: 10px 11px;
     height: 70px;
     font-size: 13px;
   }
   
   .info__buttom__left>.info__date {
-    background-color: black;
+    /*background-color: black;*/
     margin-right: 11px;
     font-size: 12px;
   }
@@ -1699,7 +1699,7 @@ footer>.footer-nav{
     top: 20px;
     right: 10px;
     color: white;
-    background-color: rgb(134, 86, 77);
+   /* background-color: rgb(134, 86, 77);*/
     font-family: yekan;
     
   }
@@ -1716,14 +1716,14 @@ footer>.footer-nav{
   }
   
   .info__mc__buttom>.info__title {
-    background-color: thistle;
+   /* background-color: thistle;*/
     margin: 10px 11px;
     height: 50px;
     font-size: 10px;
   }
   
   .info__mc__buttom>.info__date {
-    background-color: black;
+    /*background-color: black;*/
     margin-right: 11px;
     font-size: 9px;
   }
@@ -1734,7 +1734,7 @@ footer>.footer-nav{
     top: 20px;
     right: 10px;
     color: white;
-    background-color: rgb(85, 53, 49);
+   /* background-color: rgb(85, 53, 49);*/
     font-family: yekan;
     
   }
@@ -1751,14 +1751,14 @@ footer>.footer-nav{
   }
   
   .info__mc__top>.info__title {
-    background-color: thistle;
+   /* background-color: thistle;*/
     margin: 10px 11px;
     height: 50px;
     font-size: 10px;
   }
   
   .info__mc__top>.info__date {
-    background-color: black;
+  /*  background-color: black;*/
     margin-right: 11px;
     font-size: 9px;
   }
